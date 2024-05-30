@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Author:Ying-Jung Deweese
+Author:Ying-Jung Chen
 Task:
 This py script includes the function to query daily weather api historical data(2001-2009)
 by month from weather AP and save these file into AWS S3 bucket. The file named "v1_scout_trial_latlon_for_twc_query.csv" 
